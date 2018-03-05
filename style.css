@@ -1,0 +1,20 @@
+.container-fluid{
+    height: 100vh;
+    background-color: rgb(179, 204, 255);
+    display: flex;
+    justify-content: center;
+}
+.smallDiv{
+    align-self: center;
+    font-size: 40px;
+    font-family: 'Open Sans';
+}
+.containerB{
+    margin-top: 60px;
+    position: absolute;
+    align-self: center;
+}
+.btn {
+    margin: 10px;
+    background-color: whitesmoke;
+}
